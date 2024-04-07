@@ -1,0 +1,44 @@
+A.;Aguila;Blanco en el pecho, amarillo en la espalda, el rey de la selva que todo lo acecha.
+.A;Avestruz;Soy el ave más grande, pero no puedo volar. Corro muy rápido en la sabana, ¿quién soy?
+B.;BUho;De noche vuelo en silencio, mis ojos ven en la oscuridad. Soy sabio y misterioso, ¿quién soy?
+.B;Burro;Trabajo todo el día sin descanso, cargando cosas en mi lomo. Soy paciente y fuerte, ¿quién soy?
+C.;Canguro;En mi bolsa llevo a mi cría, saltando por la pradera con agilidad. ¿Quién soy?
+.C;Cebra;Blanco y negro es mi pelaje, en la sabana me destaco. ¿Quién soy?
+D.;Delfin;Vivo en el mar, nado velozmente, juego en las olas y soy muy inteligente. ¿Quién soy?
+.D;Dingo;Soy un perro salvaje de Australia, cazador y solitario. ¿Quién soy?
+G.;Gorila;En la selva habito, grande y fuerte soy, pero pacífico en mi vida. ¿Quién soy?
+.G;Gato;En casa soy el rey, ágil y elegante. Cazo ratones y me encanta dormir. ¿Quién soy?
+F.;Foca;Vivo en el frío mar, nado y salto con destreza. En el hielo descanso, ¿quién soy?
+.F;Flamenco;En las lagunas me verás, de patas largas y cuello alto. Con plumaje rosa soy muy elegante, ¿quién soy?
+E.;Elefante;Soy grande y fuerte, con colmillos largos. En la sabana africana me encuentras, ¿quién soy?
+.E;Escorpion;En el desierto me encuentro, con mi aguijón venenoso. ¿Quién soy?
+H.;Halcon;En las alturas vuelo, con garras afiladas. Mi vista es aguda y mi vuelo veloz, ¿quién soy?
+.H;Hipopotamo;En el agua vivo, grande y pesado soy. Pero en tierra soy ágil y rápido, ¿quién soy?
+I.;Iguana;En la selva me arrastro, con mi piel escamosa y ojos atentos. ¿Quién soy?
+.I;Impala;En la sabana africana corro veloz, saltando con gracia. Soy presa de muchos depredadores, ¿quién soy?
+J.;Jaguar;En la selva soy el rey, con manchas en mi pelaje. Ágil y sigiloso, ¿quién soy?
+.J;Jabali;En el bosque me encuentras, con mis colmillos afilados. Soy fuerte y valiente, ¿quién soy?
+M.;Mono;En la selva vivo, con mi cola larga y mis brazos ágiles. Me gusta jugar y colgarme de los árboles, ¿quién soy?
+.M;Murcielago;De noche vuelo, con alas de piel. Soy el único mamífero que vuela, ¿quién soy?
+L.;Leon;En la sabana soy el rey, con mi melena dorada. Fuerte y majestuoso, ¿quién soy?
+.L;Lobo;En el bosque aúllo, en manada vivo. Soy cazador y solitario a la vez, ¿quién soy?
+K.;Koala; En los árboles me encuentras, con mi pelaje gris y blanco. Me encanta dormir y comer hojas de eucalipto, ¿quién soy?
+.K;Kiwi;Soy un ave nocturna, de patas largas y pico largo. No vuelo, pero corro veloz, ¿quién soy?
+N.;Nutria;En el río nado, con mi pelaje suave y denso. Me gusta jugar y hacer diques, ¿quién soy?
+.N;Nayade;En los ríos y lagos vivo, con mi hermoso canto. Soy un espíritu del agua, ¿quién soy?
+O.;Orangutan;En la selva de Borneo y Sumatra habito, con mi pelaje rojizo. Soy inteligente y amigable, ¿quién soy?
+.O;Oso;En los bosques fríos vivo, con mi pelaje espeso. Soy grande y fuerte, ¿quién soy?
+Q.;Quokka;En Australia me encuentras, con mi cara sonriente. Soy amigable y curioso, ¿quién soy?
+.Q;Quetzal;En las selvas de América Central me encuentras, con mi plumaje brillante y largo. Soy colorido y hermoso. ¿Quién soy?
+P.;Pinguino;En el polo sur habito, con mi plumaje negro y blanco. En el agua nado velozmente, ¿quién soy?
+.P;Pato;En los lagos y ríos nado, con mi pico ancho y patas palmeadas. Soy un ave acuática, ¿quién soy?
+R.;Rinoceronte;Con mi cuerno en la nariz, en la sabana me desplazo. Soy grande y fuerte, ¿quién soy?
+.R;Rana;En el estanque vivo, con mi canto alegre. Salto de hoja en hoja, ¿quién soy?
+S.;Serpiente;En la hierba me deslizo, sin patas me arrastro. Soy sigilosa y venenosa, ¿quién soy?
+.S;Sapo;En el bosque me encuentras, con mi piel verrugosa. Por la noche croo, ¿quién soy?
+T.;Tigre;En la selva soy el cazador, con rayas en mi pelaje. Ágil y poderoso, ¿quién soy?
+.T;Tortuga;En la playa anido, con mi caparazón a cuestas. Camino lento pero seguro, ¿quién soy?
+Z.;Zorro;En el bosque me deslizo, con mi cola peluda. Astuto y veloz, ¿quién soy?
+.Z;Zarigüeya;En los bosques americanos me verás, con mi cola larga y prensil. Soy nocturna y omnívora. ¿Quién soy?
+U.;Urraca;En los campos y jardines ando, con mi plumaje negro y blanco. Soy inteligente y ladrona, ¿quién soy?
+.U;Uapiti;En los bosques de América del Norte vivo, con mi cornamenta imponente. Soy grande y majestuoso, ¿quién soy?
