@@ -1,5 +1,0 @@
-PANDOXXO  13
-FLOR  1
-NN  0
-NN  0
-NN  0
